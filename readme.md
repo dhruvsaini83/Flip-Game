@@ -55,6 +55,15 @@ Flip two cards at a time and try to match all pairs. The fewer moves you make, t
 
 ---
 
+## 🛠️ Future Enhancements
+
+1. ⏱️ Add a timer and move counter
+2. 🔊 Add sound effects on flip and match
+3. 🧾 Store best scores using localStorage
+4. ⚙️ Add difficulty levels (e.g., 4x4, 6x6 grids)
+
+---
+
 ## 📦 Run Locally
 
 ```bash
