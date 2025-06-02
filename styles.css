@@ -238,12 +238,14 @@ p a {
 
     #game-board {
         grid-template-columns: repeat(2, 1fr);
-        /* 2 cards per row on phones */
         gap: 6px;
-        max-width: 95%;
+        max-width: 280px;
+        /* Shrinks board width */
     }
 
     .card {
+        max-width: 120px;
+        max-height: 120px;
         border-width: 1px;
     }
 
