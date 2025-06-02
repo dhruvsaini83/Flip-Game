@@ -49,6 +49,11 @@ Flip two cards at a time and try to match all pairs. The fewer moves you make, t
 5. Celebrate with confetti and restart the game!
 
 ---
+## 📸 Screenshot
+
+![Flip Game Screenshot](screenshot.png)
+
+---
 
 ## 📦 Run Locally
 
